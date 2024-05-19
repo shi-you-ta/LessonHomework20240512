@@ -1,0 +1,14 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\bin\Debug\net8.0\Regex.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\bin\Debug\net8.0\Regex.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\bin\Debug\net8.0\Regex.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\bin\Debug\net8.0\Regex.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\bin\Debug\net8.0\Regex.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\refint\Regex.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\Regex.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\Homework20240512\Regex\Regex\Regex\obj\Debug\net8.0\ref\Regex.dll

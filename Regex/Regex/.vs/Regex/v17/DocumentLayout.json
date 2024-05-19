@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240512\\Regex\\Regex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2FEA67-A013-46F6-B3E9-8A84CB5F024D}|Regex\\Regex.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\homework20240512\\regex\\regex\\regex\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F2FEA67-A013-46F6-B3E9-8A84CB5F024D}|Regex\\Regex.vbproj|solutionrelative:regex\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2FEA67-A013-46F6-B3E9-8A84CB5F024D}|Regex\\Regex.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\homework20240512\\regex\\regex\\regex\\regex.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7F2FEA67-A013-46F6-B3E9-8A84CB5F024D}|Regex\\Regex.vbproj|solutionrelative:regex\\regex.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Regex",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240512\\Regex\\Regex\\Regex\\Regex.vbproj",
+              "RelativeDocumentMoniker": "Regex\\Regex.vbproj",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240512\\Regex\\Regex\\Regex\\Regex.vbproj",
+              "RelativeToolTip": "Regex\\Regex.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-05-17T13:05:31.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240512\\Regex\\Regex\\Regex\\Program.vb",
+              "RelativeDocumentMoniker": "Regex\\Program.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\Homework20240512\\Regex\\Regex\\Regex\\Program.vb",
+              "RelativeToolTip": "Regex\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T13:53:26.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
